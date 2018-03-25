@@ -1,4 +1,4 @@
-# blindT60_RNN
+# blind T60 estimation using LSTM
 
 Digital signal processing hand-on for feature extraction that implement with python (Jupyter notebook)
 
